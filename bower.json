@@ -1,0 +1,27 @@
+{
+  "name": "logme",
+  "version": "0.0.0",
+  "authors": [
+    "Benjamín Guerrero <benjaminguv001@hotmail.com>"
+  ],
+  "description": "ver logs",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "logs",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.4"
+  }
+}
