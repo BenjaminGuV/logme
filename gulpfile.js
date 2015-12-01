@@ -23,7 +23,7 @@ gulp.task('libcss', function () {
 });
 
 gulp.task('js', function () {
-  gulp.src('lib/*.js')
+  gulp.src([ 'lib/aplugins.js', 'lib/inicio.js' ])
   .pipe(concat('todo.js'))
   //.pipe(uglify())
   .pipe(gulp.dest('js/'))
