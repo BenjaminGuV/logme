@@ -47,7 +47,7 @@ $ node servicio.js /var/log/apache2/access.log
 ```
 
 
-![alt text](https://doc-14-08-docs.googleusercontent.com/docs/securesc/luplvsm7itbn9os653dep71i9vu0meol/a5qn7va69o3dof4kolec13ukujcfqlga/1448935200000/05580784234882571830/05580784234882571830/0B59gRQNNhnGub0hKaS1pWmxrRkk?e=view "Captura uno")
+![alt text](http://drive.google.com/uc?export=view&id=0B59gRQNNhnGub0hKaS1pWmxrRkk "Captura uno")
 
 
 
